@@ -1,11 +1,11 @@
 //Firebase初期設定
 var config = {
-  apiKey: "【ここに自分のconfigを貼り付け】",
-  authDomain: "【ここに自分のconfigを貼り付け】",
-  databaseURL: "【ここに自分のconfigを貼り付け】",
-  storageBucket: "【ここに自分のconfigを貼り付け】",
-  messagingSenderId: "【ここに自分のconfigを貼り付け】"
-};
+    apiKey: "AIzaSyDbPFVrJbBhmPqv4Vo2skSfROTTfSWRJX8",
+    authDomain: "incandescent-inferno-5759.firebaseapp.com",
+    databaseURL: "https://incandescent-inferno-5759.firebaseio.com",
+    storageBucket: "incandescent-inferno-5759.appspot.com",
+    messagingSenderId: "728300130429"
+  };
 firebase.initializeApp(config);
 
 
