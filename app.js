@@ -1,11 +1,11 @@
 //Firebase初期設定
 var config = {
-    apiKey: "AIzaSyDbPFVrJbBhmPqv4Vo2skSfROTTfSWRJX8",
-    authDomain: "incandescent-inferno-5759.firebaseapp.com",
-    databaseURL: "https://incandescent-inferno-5759.firebaseio.com",
-    storageBucket: "incandescent-inferno-5759.appspot.com",
-    messagingSenderId: "728300130429"
-  };
+  apiKey: "AIzaSyDbPFVrJbBhmPqv4Vo2skSfROTTfSWRJX8",
+  authDomain: "incandescent-inferno-5759.firebaseapp.com",
+  databaseURL: "https://incandescent-inferno-5759.firebaseio.com",
+  storageBucket: "incandescent-inferno-5759.appspot.com",
+  messagingSenderId: "728300130429"
+};
 firebase.initializeApp(config);
 
 
